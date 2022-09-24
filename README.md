@@ -16,13 +16,13 @@ To run **10-mini-html-css-project** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/geeky-prashant/10-mini-html-css-project.git
+sudo git clone https://github.com/Thant998/10-mini-html-css-project.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/geeky-prashant/10-mini-html-css-project.git
+git clone https://github.com/Thant998/10-mini-html-css-project.git
 ```
 
 ### Contact
